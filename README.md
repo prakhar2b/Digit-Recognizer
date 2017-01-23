@@ -8,3 +8,4 @@ Deep Learning -- Classify handwritten digits using the famous MNIST data
 
 # Additional Reference
 * Neural Networks and Deep Learning (by Michael Nielsen )
+* http://www.deeplearningbook.org/exercises.html
